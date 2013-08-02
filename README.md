@@ -1,4 +1,6 @@
-first_class
+First class
 ===========
 
-Have first class core objects.
+Have first class Drupal core objects.
+
+Relies on PDO's FETCH_CLASS flag.

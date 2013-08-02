@@ -1,15 +1,6 @@
 <?php
 
 class FirstClassNodeController extends NodeController {
-  // protected function buildQuery($ids, $conditions = array(), $revision_id = FALSE) {
-  //   $query = parent::buildQuery($ids, $conditions, $revision_id);
-
-  //   $query->setAttribute(FETCH_CLASS, 'FirstClassNode');
-
-  //   return $query;
-  // }
-  //
-
   /**
    * Implements DrupalEntityControllerInterface::load().
    */
