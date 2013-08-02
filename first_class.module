@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_entity_info_alter().
+ */
+function first_class_entity_info_alter(&$entity_info) {
+  $entity_info['node']['controller class'] = 'FirstClassNodeController';
+}

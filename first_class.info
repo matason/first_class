@@ -1,0 +1,6 @@
+name = First class
+description = Load first class node objects.
+core = 7.x
+
+files[] = includes/FirstClassNode.inc
+files[] = includes/FirstClassNodeController.inc
